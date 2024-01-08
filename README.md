@@ -1,10 +1,18 @@
 # SwagLabs_Assignment
-This project is part of my Appium learning.  
-For my tests, I used Sauce Labs demo app on Android OS. This app is open source, 
-
+This project integrates Sauce Labs for automated testing, 
+Allowing for seamless cross-browsing and cross-platform testing of mobile applications.
 
 ***
-#### 👨🏻‍💻 Technology :
+### Apk required
+Android.SauceLabs.Mobile.Sample.app.2.2.0.apk
+https://github.com/saucelabs/sample-app-mobile/releases/download/2.7.1/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+
+***
+#### Tools and Technology :
+- IntelliJ Idea IDE
+- Appium Inspector
+- Android Studio
+- Node js
 - Programming language - **Java**
 - Automation framework - **Appium**
 - Testing framework - **TestNG**  
@@ -41,10 +49,8 @@ Anyway, here's the resume:
 - Configure Android Path in your environment variables.
   - ANDROID_HOME: root android sdk directory
   - PATH: ANDROID_HOME + the following paths = platform-tools, tools, platforms, build-tools  
-  - Check it for a visual explanation (PT-BR): https://youtu.be/yuKlc-a5z5k?si=7E9sJydltJ9_9Bqe&t=73
-- Install Appium doctor: `npm install -g appium-doctor`. Run it: `appium-doctor --android`  
+  - Check it for a visual explanation (PT-BR): https://youtu.be/yuKlc-a5z5k?si=7E9sJydltJ9_9Bqe&t=73  
   - Check the "manual fixes needed" and fix them
-- If Appium Doctor tells you apkanalyzer.bat is not found, maybe it exists, but you need to rename it putting .bat at the end of the file name. This was my case. Probable apkanalyzer location: C:\Users\YOUR_USER_NAME\AppData\Local\Android\Sdk\tools\bin
 - Install Appium inspector or run it on the web: https://inspector.appiumpro.com/
 - Configure the Appium Inspector. Below is the image of my configuration:
 
