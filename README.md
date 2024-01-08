@@ -45,7 +45,8 @@ Anyway, here's the resume:
 - Install Appium inspector or run it on the web: https://inspector.appiumpro.com/
 - Configure the Appium Inspector. Below is the image of my configuration:
 
-![appium inspector](https://github.com/danielandrioli/appiumSauceLabsApp/assets/60299141/48355216-1cfe-403b-b5d6-50a1a8f387eb)
+<img width="808" alt="image" src="https://github.com/Onkartayde21/SwagLabs_Assignment/assets/97312809/970e0148-8d19-4c6a-b847-2a7174158046">
+
 
 - To know the device's name, first you need to run the device. Then run this command on cmd: `adb devices`
 - Run `adb shell dumpsys window | find "mCurrentFocus"` to see the app package name and the app activity that is currently on focus in your device
