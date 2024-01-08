@@ -10,6 +10,9 @@ For my tests, I used Sauce Labs demo app on Android OS. This app is open source,
 - Testing framework - **TestNG**  
 - Project management tool - **Maven**  
 
+***
+### Design Patterns:
+**Page Object Model (POM)** 
 
 ***
 ### Tests:
