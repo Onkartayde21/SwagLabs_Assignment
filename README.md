@@ -5,7 +5,8 @@ Allowing for seamless cross-browsing and cross-platform testing of mobile applic
 ***
 ### Apk required
 Android.SauceLabs.Mobile.Sample.app.2.2.0.apk
-https://github.com/saucelabs/sample-app-mobile/releases/download/2.7.1/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+
+https://github.com/saucelabs/sample-app-mobile/releases/download/2.2.0/Android.SauceLabs.Mobile.Sample.app.2.2.0.apk
 
 ***
 #### Tools and Technology :
